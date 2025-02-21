@@ -1,0 +1,12 @@
+transformers
+torch
+accelerate
+huggingface_hub
+langchain-community
+langgraph
+langchain-anthropic
+tavily-python
+langgraph-checkpoint-sqlite
+langchain-ollama
+langchain_core
+langgraph
